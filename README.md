@@ -2,6 +2,8 @@
 
 React frontend for a doctor appointment booking platform: find doctors, view profiles and reviews, book appointments, and manage everything from patient and doctor dashboards.
 
+**Live demo:** https://doctor-appointment-xi-kohl.vercel.app
+
 **API:** [Doctor-Appointment-Project-Backend](https://github.com/xeetriaman/Doctor-Appointment-Project-Backend)
 
 ## Tech stack
